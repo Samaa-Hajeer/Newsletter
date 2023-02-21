@@ -65,7 +65,7 @@ if (port == null || port == "") {
   port = 3000;
 }
 app.listen(port, function () {
-    console.log("hiiiiii");
+    console.log("Port 3000");
 });
 
 //b026982e17
